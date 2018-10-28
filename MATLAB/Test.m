@@ -1,2 +1,2 @@
 %test
-%sahil gits hub
+%sahil github
